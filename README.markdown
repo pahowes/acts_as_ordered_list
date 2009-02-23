@@ -1,12 +1,12 @@
 # acts_as_ordered_list
 
-This plugin was inspired by the `acts_as_list` plug-in, also available on github.  I needed
-something a lot more basic than what `acts_as_list` does, and this plug-in is the result.
+This plugin was inspired by the `acts_as_list` plug-in, also available here on github.  I needed
+something a lot more basic than what it does, and this plug-in is the result.
 
 
 # Example
 
-Install the plug in with:
+Install the plug-in with:
 
     ruby script/plugin install git://github.com/pahowes/acts_as_ordered_list.git
     
